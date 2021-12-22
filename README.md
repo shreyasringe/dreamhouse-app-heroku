@@ -1,7 +1,7 @@
 DreamHouse Web App
 ------------------
 
-This repo has been tightly coupled with the heroku app, see details below:
+This repo has been tightly coupled with the heroku app, see details below. Any changes done on this app will automatically be deployed to the heroku app. 
 1. Login into Heroku (shreyas.ringe@gmail.com)
     - see the app: dreamhouse-app-shreyasringe
     - see the pipeline: dreamhouse-app-pipeline
